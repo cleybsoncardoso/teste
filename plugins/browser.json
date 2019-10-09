@@ -1,0 +1,27 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.meuapp.teste"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.meuapp.teste"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.meuapp.teste"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.meuapp.teste"
+    },
+    "onesignal-cordova-plugin": {
+      "PACKAGE_NAME": "com.meuapp.teste"
+    }
+  },
+  "dependent_plugins": {}
+}
